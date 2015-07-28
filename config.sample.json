@@ -1,0 +1,9 @@
+{
+    "debug": true,
+    "debugIgnore": ["incoming"],
+    "experimental": true,
+    "extraPronoun": "|man",
+    "username": "username",
+    "password": "oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "channel": "manvsgame"
+}

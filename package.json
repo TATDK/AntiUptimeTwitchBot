@@ -1,0 +1,11 @@
+{
+    "name": "AntiUptimeTwitchBot",
+    "version": "1.0.0",
+    "author": "TAT <TAT@plugCubed.net>",
+    "description": "For streamers that doesn't want people to ask about uptime",
+    "dependencies": {
+        "cron": "^1.0.9",
+        "request": "^2.60.0",
+        "twitch-irc": "^1.2.7"
+    }
+}
